@@ -1,0 +1,6 @@
+[submodule "2ndGame/Assets/MyScripts"]
+	path = 2ndGame/Assets/MyScripts
+	url = https://github.com/ProffessorPow/MyScripts
+[submodule "2ndGame/Assets/AnthonyTools"]
+	path = 2ndGame/Assets/AnthonyTools
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
